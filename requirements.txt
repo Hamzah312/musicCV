@@ -1,0 +1,6 @@
+fastai
+librosa
+matplotlib
+numpy
+pandas
+scikit-learn
